@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/tafadzwa/login/tafadzwa/BuildConfig.java
+ com.tafadzwa.login.tafadzwa.BuildConfig

@@ -1,0 +1,4 @@
+#Mon Dec 20 15:08:14 PKT 2021
+base.0=/Users/moon/Desktop/Development/Android Disk/Upwork/tafadzwa/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
